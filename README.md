@@ -5,4 +5,4 @@
 *  Validation and data quality assessment for portfolio stress testing.
 
 ## Postdcotral fellow  (Southern Methodist University /CERN )
-During this tenure as a postdoct, I was associate member of European particle physics lab (CERN) as part of the [[ATLAS collaboaration][https://atlas.cern]].  
+During this tenure as a postdoct, I was associate member of European particle physics lab (CERN) as part of the ATLAS experiment. 
