@@ -10,4 +10,4 @@ During this tenure as a postdoct, I was associate member of European particle ph
 
 # Education 
 Physics, Ph.D 
-[Ruprecht Karls University of Heidelberg, Germany](https://www.uni-heidelberg.de/en)
+[Ruprecht Karls University of Heidelberg](https://www.uni-heidelberg.de/en)
